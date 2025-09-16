@@ -1,6 +1,6 @@
 import os
 import numpy as np
-import fitz  # PyMuPDF
+import fitz 
 import statistics
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -90,4 +90,5 @@ if all_pages:
     plt.xticks(range(len(labels)), labels)
     plt.ylabel("Number of Pages")
     plt.title("PDF Length Distribution Across Companies")
+
     plt.show()
