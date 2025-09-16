@@ -1,6 +1,6 @@
 # Thesis – AI-Based Measurement of Innovation Attractiveness
 
-This repository contains the Python code developed for the thesis on **AI-based measurement of innovation attractiveness**. The workflow is divided into 7 files, organized according to their processing order:
+This repository contains the Python code developed for the thesis. The workflow is divided into 7 files, organized according to their processing order:
 
 1. **`1_data_processing.py`** – All steps for processing the dataset and creating the resulting corpus.  
 2. **`2_data_stats.py`** – Calculation of data statistics after processing.  
